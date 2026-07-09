@@ -20,7 +20,7 @@ There is also a metadata file (`sample_metadata_for_project_final.csv`) that ass
 
 ### Pipeline Workflow
 
-**Steps** Data Import -> Mean Centering -> Dimensionality Reduction (PCA) -> Model Setup -> Training  -> Testing -> Benchmarking against SKLearn.
+Data Import -> Mean Centering -> Dimensionality Reduction (PCA) -> Model Setup -> Training  -> Testing -> Benchmarking against SKLearn.
 
 ---
 
