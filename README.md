@@ -30,10 +30,10 @@ Following data preprocessing and dimensionality reduction with Principal Compone
 
 **Neural Network (ANN) Results**
 Both the custom and SKLearn models were configured with one hidden layer containing 10 neurons. 
-<img width="567" height="455" alt="ANN_sklearn" src="https://github.com/user-attachments/assets/9a38de32-7a3c-4d25-84ce-faaddd817499" />
+<img width="567" height="455" alt="ANN_Custom" src="https://github.com/user-attachments/assets/01a79f19-1103-4c23-b921-49b7e84cb684" />
 * **Custom Model Accuracy:** **98.84%**
   
-<img width="567" height="455" alt="ANN_Custom" src="https://github.com/user-attachments/assets/01a79f19-1103-4c23-b921-49b7e84cb684" />
+<img width="567" height="455" alt="ANN_sklearn" src="https://github.com/user-attachments/assets/9a38de32-7a3c-4d25-84ce-faaddd817499" />
 * **Scikit-Learn Accuracy:** **99.42%**
 
 **Key Takeaways:**
